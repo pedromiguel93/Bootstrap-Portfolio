@@ -7,7 +7,7 @@ This project serves as a showcase of my bootstrap skills, as I used various diff
 Like the previous non-bootstrap website, this new website is responsive and works in computers, tablets or smartphones, reacting and adapting to different screensizes for optimal display.
 In the portfolio, I show a recent headshot of myself, an about me section, my most recent web development projects (placeholders for now), and a section that shows various contact details.
 
-Link to the finished website: https://pedromiguel93.github.io/WebDevPortfolio/
+Link to the finished website: https://pedromiguel93.github.io/Bootstrap-Portfolio/
 
 ## Screenshots
 
